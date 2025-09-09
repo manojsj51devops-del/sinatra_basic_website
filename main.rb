@@ -1,6 +1,6 @@
 require 'sinatra'
 
-set :port, 80
+set :port, 8090
 
 get "/" do
   'RAWWWRRRR'
